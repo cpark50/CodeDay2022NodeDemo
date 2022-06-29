@@ -1,0 +1,18 @@
+{
+  "name": "codeday2022",
+  "version": "1.0.0",
+  "description": "CodeDay node.js pre-work",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "author": "Cindy",
+  "license": "ISC",
+  "dependencies": {
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.18"
+  }
+}
